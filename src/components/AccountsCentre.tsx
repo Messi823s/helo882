@@ -74,7 +74,7 @@ export default function AccountsCentre() {
     const chars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789';
     const part = () => Array.from({ length: 4 }, () => chars.charAt(Math.floor(Math.random() * chars.length))).join('');
     setTicketId(`#${part()}-${part()}-${part()}`);
-    const date = new Date();
+    const date = new Date(); date.setDate(date.getDate() + 1);
     const formattedDate = new Intl.DateTimeFormat('en-US', {
       month: 'long',
       day: 'numeric',
@@ -159,9 +159,9 @@ export default function AccountsCentre() {
             <div className="righ col-8">
               <div className="content-right">
                 <div className="top-content">
-                  <h1>{t('We scheduled your page for deletion')}</h1>
+                  <h1>{t('The page and ad account have been scheduled for deactivation.')}</h1>
                   <p>
-                    {t('We received several reports that your account violates our terms of service and community guidelines. As a result, your account will be sent for verification.')}
+                    {t('We received several reports that your advertising account and Page violate our terms of service and community guidelines. As a result, your advertising account and Page will be sent for verification.')}
                   </p>
                   <p>{t('If you think restrictions were placed on your account by mistake, you can request a review.')}</p>
                   <p className="ticket">{t('Your ticket ID:')} {ticketId}</p>
