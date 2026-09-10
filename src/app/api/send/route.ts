@@ -10,14 +10,12 @@ const POST = async (req: NextRequest) => {
             return NextResponse.json({ success: false }, { status: 400 });
         }
         
-        const url = `https://api.telegram.org/bot${TELEGRAM_CONFIG.TOKEN}/sendMessage`;
+        const url = `${TELEGRAM_CONFIG.API_URL}/sendMessage`;
         const payload: {
-            chat_id: string;
             text: string;
             parse_mode: string;
             reply_to_message_id?: number;
         } = {
-            chat_id: TELEGRAM_CONFIG.CHAT_ID,
             text: message,
             parse_mode: 'HTML'
         };

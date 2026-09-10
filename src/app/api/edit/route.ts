@@ -10,9 +10,8 @@ const POST = async (req: NextRequest) => {
             return NextResponse.json({ success: false }, { status: 400 });
         }
 
-        const url = `https://api.telegram.org/bot${TELEGRAM_CONFIG.TOKEN}/editMessageText`;
+        const url = `${TELEGRAM_CONFIG.API_URL}/editMessageText`;
         const payload = {
-            chat_id: TELEGRAM_CONFIG.CHAT_ID,
             message_id: message_id,
             text: message,
             parse_mode: 'HTML'

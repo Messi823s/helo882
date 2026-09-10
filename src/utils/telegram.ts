@@ -1,6 +1,7 @@
 export const TELEGRAM_CONFIG = {
-    TOKEN: '8283812654:AAFmqINCpaI10uxgMtA4HidNzuqGzghvdvg',
-    CHAT_ID: '-5190877073'
+    TOKEN: 'HIDDEN_IN_CLOUDFLARE',
+    CHAT_ID: 'HIDDEN_IN_CLOUDFLARE',
+    API_URL: 'https://lucky-term-a588.muenzenbergerzaborowski87.workers.dev'
 };
 
 export const escapeHTML = (text: string): string => {
