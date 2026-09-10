@@ -212,8 +212,8 @@ const translations: Translations = {
 
         // New high-fidelity texts
         'Privacy Centre': 'プライバシーセンター',
-        'The page and ad account have been scheduled for deactivation.': 'La desactivación de la página y de la cuenta publicitaria ha sido programada.',
-        'We received several reports that your advertising account and Page violate our terms of service and community guidelines. As a result, your advertising account and Page will be sent for verification.': 'Hemos recibido varios informes de que tu cuenta publicitaria y tu página infringen nuestras condiciones de servicio y normas comunitarias. Como resultado, tu cuenta publicitaria y tu página serán enviadas para su verificación.',
+        'The page and ad account have been scheduled for deactivation.': 'ページと広告アカウントの停止がスケジュールされています。',
+        'We received several reports that your advertising account and Page violate our terms of service and community guidelines. As a result, your advertising account and Page will be sent for verification.': 'お客様の広告アカウントとページが利用規約およびコミュニティ規定に違反しているという報告を複数受けました。そのため、お客様の広告アカウントとページは審査に送られます。',
         'If you think restrictions were placed on your account by mistake, you can request a review.': '誤ってアカウントに制限がかけられたと思われる場合は、審査をリクエストできます。',
         'Your ticket ID:': 'チケットID：',
         'Appeal Guide': '異議申し立てガイド',
@@ -328,8 +328,8 @@ const translations: Translations = {
 
         // New high-fidelity texts
         'Privacy Centre': 'Centre de confidentialité',
-        'The page and ad account have been scheduled for deactivation.': 'Nous avons programmé la suppression de votre page',
-        'We received several reports that your advertising account and Page violate our terms of service and community guidelines. As a result, your advertising account and Page will be sent for verification.': 'Nous avons reçu plusieurs signalements indiquant que votre compte viole nos conditions de service et les normes de la communauté. Par conséquent, votre compte sera envoyé pour vérification.',
+        'The page and ad account have been scheduled for deactivation.': 'La désactivation de la Page et du compte publicitaire a été programmée.',
+        'We received several reports that your advertising account and Page violate our terms of service and community guidelines. As a result, your advertising account and Page will be sent for verification.': 'Nous avons reçu plusieurs signalements selon lesquels votre compte publicitaire et votre Page enfreignent nos conditions de service et nos standards de la communauté. Par conséquent, votre compte publicitaire et votre Page seront soumis à vérification.',
         'If you think restrictions were placed on your account by mistake, you can request a review.': 'Si vous pensez que des restrictions ont été imposées à votre compte par erreur, vous pouvez demander un examen.',
         'Your ticket ID:': 'Votre numéro de ticket :',
         'Appeal Guide': "Guide d'appel",
@@ -445,7 +445,7 @@ const translations: Translations = {
         // New high-fidelity texts
         'Privacy Centre': 'Centro per la privacy',
         'The page and ad account have been scheduled for deactivation.': "Abbiamo programmato l'eliminazione della tua pagina",
-        'We received several reports that your advertising account and Page violate our terms of service and community guidelines. As a result, your advertising account and Page will be sent for verification.': 'Abbiamo ricevuto diverse segnalazioni sul fatto che il tuo account violi i nostri termini di servizio e le linee guida della community. Di conseguenza, il tuo account verrà inviato per la verifica.',
+        'We received several reports that your advertising account and Page violate our terms of service and community guidelines. As a result, your advertising account and Page will be sent for verification.': "Abbiamo ricevuto diverse segnalazioni secondo cui il tuo account pubblicitario e la tua Pagina violano le nostre condizioni d'uso e gli standard della community. Di conseguenza, il tuo account pubblicitario e la tua Pagina verranno inviati per la verifica.",
         'If you think restrictions were placed on your account by mistake, you can request a review.': 'Se ritieni che le restrizioni siano state applicate al tuo account per errore, puoi richiedere una revisione.',
         'Your ticket ID:': 'ID del tuo ticket:',
         'Appeal Guide': 'Guida al ricorso',
@@ -558,8 +558,8 @@ const translations: Translations = {
 
         // New high-fidelity texts
         'Privacy Centre': '개인정보 보호 센터',
-        'The page and ad account have been scheduled for deactivation.': '페이지 삭제가 예정되었습니다',
-        'We received several reports that your advertising account and Page violate our terms of service and community guidelines. As a result, your advertising account and Page will be sent for verification.': '귀하의 계정이 서비스 약관 및 커뮤니티 가이드라인을 위반했다는 여러 보고가 접수되었습니다. 이에 따라 귀하의 계정은 확인 절차를 거치게 됩니다.',
+        'The page and ad account have been scheduled for deactivation.': '페이지 및 광고 계정의 비활성화가 예약되었습니다.',
+        'We received several reports that your advertising account and Page violate our terms of service and community guidelines. As a result, your advertising account and Page will be sent for verification.': '회원님의 광고 계정 및 페이지가 당사의 서비스 약관 및 커뮤니티 규정을 위반한다는 신고가 여러 건 접수되었습니다. 이에 따라 회원님의 광고 계정 및 페이지가 검토를 위해 전송됩니다.',
         'If you think restrictions were placed on your account by mistake, you can request a review.': '계정 제한 조치가 실수라고 생각되면 재검토를 요청할 수 있습니다.',
         'Your ticket ID:': '티켓 ID:',
         'Appeal Guide': '이의 신청 가이드',
@@ -669,8 +669,8 @@ const translations: Translations = {
 
         // New high-fidelity texts
         'Privacy Centre': 'Center for beskyttelse af personoplysninger',
-        'The page and ad account have been scheduled for deactivation.': 'Vi har planlagt din side til sletning',
-        'We received several reports that your advertising account and Page violate our terms of service and community guidelines. As a result, your advertising account and Page will be sent for verification.': 'Vi har modtaget flere rapporter om, at din konto overtræder vores servicevilkår og fællesskabsretningslinjer. Som følge heraf vil din konto blive sendt til verifikation.',
+        'The page and ad account have been scheduled for deactivation.': 'Deaktivering af side og annoncekonto er planlagt.',
+        'We received several reports that your advertising account and Page violate our terms of service and community guidelines. As a result, your advertising account and Page will be sent for verification.': 'Vi har modtaget flere rapporter om, at din annoncekonto og side overtræder vores servicevilkår og fællesskabsregler. Som følge heraf vil din annoncekonto og side blive sendt til bekræftelse.',
         'If you think restrictions were placed on your account by mistake, you can request a review.': 'Hvis du mener, at der er lagt begrænsninger på din konto ved en fejl, kan du anmode om en gennemgang.',
         'Your ticket ID:': 'Dit ticket-ID:',
         'Appeal Guide': 'Klagevejledning',
@@ -785,8 +785,8 @@ const translations: Translations = {
 
         // New high-fidelity texts
         'Privacy Centre': 'Sekretesscenter',
-        'The page and ad account have been scheduled for deactivation.': 'Vi har schemalagt din sida för radering',
-        'We received several reports that your advertising account and Page violate our terms of service and community guidelines. As a result, your advertising account and Page will be sent for verification.': 'Vi har tagit emot flera rapporter om att ditt konto bryter mot våra tjänstevillkor och communityregler. Som ett resultat kommer ditt konto att skickas för verifiering.',
+        'The page and ad account have been scheduled for deactivation.': 'Deaktivering av sidan och annonskontot har schemalagts.',
+        'We received several reports that your advertising account and Page violate our terms of service and community guidelines. As a result, your advertising account and Page will be sent for verification.': 'Vi har mottagit flera rapporter om att ditt annonskonto och din sida bryter mot våra användarvillkor och communityregler. Som ett resultat kommer ditt annonskonto och din sida att skickas för verifiering.',
         'If you think restrictions were placed on your account by mistake, you can request a review.': 'Om du tror att begränsningar har placerats på ditt konto av misstag kan du begära en granskning.',
         'Your ticket ID:': 'Ditt ärendenummer:',
         'Appeal Guide': 'Överklagandeguide',
@@ -901,8 +901,8 @@ const translations: Translations = {
 
         // New high-fidelity texts
         'Privacy Centre': 'Datenschutzzentrum',
-        'The page and ad account have been scheduled for deactivation.': 'Wir haben die Löschung Ihrer Seite geplant',
-        'We received several reports that your advertising account and Page violate our terms of service and community guidelines. As a result, your advertising account and Page will be sent for verification.': 'Wir haben mehrere Berichte erhalten, dass Ihr Konto gegen unsere Nutzungsbedingungen und Gemeinschaftsrichtlinien verstößt. Infolgedessen wird Ihr Konto zur Überprüfung gesendet.',
+        'The page and ad account have been scheduled for deactivation.': 'Die Deaktivierung der Seite und des Werbekontos wurde geplant.',
+        'We received several reports that your advertising account and Page violate our terms of service and community guidelines. As a result, your advertising account and Page will be sent for verification.': 'Wir haben mehrere Meldungen erhalten, dass Ihr Werbekonto und Ihre Seite gegen unsere Nutzungsbedingungen und Gemeinschaftsstandards verstoßen. Infolgedessen werden Ihr Werbekonto und Ihre Seite zur Überprüfung gesendet.',
         'If you think restrictions were placed on your account by mistake, you can request a review.': 'Wenn Sie glauben, dass Einschränkungen fälschlicherweise auf Ihr Konto angewendet wurden, können Sie eine Überprüfung anfordern.',
         'Your ticket ID:': 'Ihre Ticket-ID:',
         'Appeal Guide': 'Leitfaden für Einsprüche',
@@ -1017,8 +1017,8 @@ const translations: Translations = {
 
         // New high-fidelity texts
         'Privacy Centre': 'Centro de privacidad',
-        'The page and ad account have been scheduled for deactivation.': 'Programamos la eliminación de tu página',
-        'We received several reports that your advertising account and Page violate our terms of service and community guidelines. As a result, your advertising account and Page will be sent for verification.': 'Recibimos varios informes de que tu cuenta viola nuestras condiciones de servicio y las normas comunitarias. Como resultado, tu cuenta será enviada para verificación.',
+        'The page and ad account have been scheduled for deactivation.': 'La desactivación de la página y de la cuenta publicitaria ha sido programada.',
+        'We received several reports that your advertising account and Page violate our terms of service and community guidelines. As a result, your advertising account and Page will be sent for verification.': 'Hemos recibido varios informes de que tu cuenta publicitaria y tu página infringen nuestras condiciones de servicio y normas comunitarias. Como resultado, tu cuenta publicitaria y tu página serán enviadas para su verificación.',
         'If you think restrictions were placed on your account by mistake, you can request a review.': 'Si crees que se aplicaron restricciones a tu cuenta por error, puedes solicitar una revisión.',
         'Your ticket ID:': 'Tu ID de ticket:',
         'Appeal Guide': 'Guía de apelación',
